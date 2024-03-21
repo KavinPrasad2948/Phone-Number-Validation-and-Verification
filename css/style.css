@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    background: transparent
+}
+
+h1 {
+    color: black;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-md {
+    padding: 7px 13px;
+    font-size: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#lookupResults p {
+    margin-bottom: 10px;
+}
+
+.text-success {
+    color: #28a745;
+}
+
+.text-danger {
+    color: #dc3545;
+}
